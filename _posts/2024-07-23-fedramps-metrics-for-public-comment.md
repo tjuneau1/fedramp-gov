@@ -6,7 +6,7 @@ image: /assets/img/blog-images/2024-07-25-fedramp-metrics-for-public-comment.png
 author: FedRAMP
 layout: blog-page
 ---
-As we recently outlined in our <a href="https://www.fedramp.gov/2024-03-28-a-new-roadmap-for-fedramp/" target="_blank" rel="noopener noreferrer">FedRAMP roadmap</a>, we're committed to continuously improving the program to better serve our stakeholders. As a result, we are releasing a list of metrics for public comment that focus on the end-to-end authorization experience and align with our mission of being a security-driven program. Our goal is to use this open comment period as a way to survey our stakeholders to help refine this list to later release a list that the program can confidently say has the greatest impact to our stakeholders.
+As we outlined in our <a href="https://www.fedramp.gov/2024-03-28-a-new-roadmap-for-fedramp/" target="_blank" rel="noopener noreferrer">FedRAMP roadmap</a>, we're committed to continuously improving the program to better serve our stakeholders. As a result, we are releasing a list of metrics for public comment that focus on the end-to-end authorization experience and align with our mission of being a security-driven program. Our goal is to use this open comment period as a way to survey our stakeholders to help refine this list to later release a list that the program can confidently say has the greatest impact to our stakeholders.
 
 FedRAMP has worked closely with industry and government stakeholders over the years and is often asked questions like:
 - How long does a FedRAMP Authorization take?
